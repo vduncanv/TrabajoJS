@@ -1,0 +1,90 @@
+
+#verde {color: rgb(106, 210, 1); }
+.carousel-inner { 
+    background-color: rgba(41, 23, 1, 0.75) ;
+}
+#blanco {
+    color: white;
+    border-color: white;
+}
+
+#comprartickets {
+    background-color:rgb(106, 210, 1) ;
+}
+
+
+#descuentos {
+    padding-top: 1rem;
+}
+
+
+#estudiante {
+    border-style: solid;
+    border-color: rgb(83, 152, 255) ;
+    padding-left: 0.01rem;
+    padding-right: 0.01rem;
+
+}
+
+#descuentos {
+    padding-top: 1rem;
+}
+
+
+#trainee {
+    border-style: solid;
+    border-color: rgb(96, 249, 109) ;
+    padding-left: 0.01rem;
+    padding-right: 0.01rem;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+
+}
+
+#junior {
+    border-style: solid;
+    border-color: rgb(255, 175, 83) ;
+    padding-left: 0.01rem;
+    padding-right: 0.01rem;
+  
+}
+
+#formulario {
+
+margin-left: 5rem;
+margin-right: 5rem;
+padding-left: 5rem;
+padding-right: 5rem;
+}
+
+.form {
+  
+    padding-top: 2rem;
+}
+#button {
+    background-color: rgb(106, 210, 1);
+  
+}
+
+#button1 {
+    background-color: rgb(106, 210, 1) ;
+    margin-top: 2rem;
+}
+
+#footer {
+    background-color:rgb(1, 22, 67) ;
+    color: white;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+    font-size: 11px;
+}
+
+#photo {
+    opacity: 0.4;
+}
+.carousel-inner {
+    background-color: black;
+}
