@@ -57,18 +57,20 @@ padding-left: 5rem;
 padding-right: 5rem;
 }
 
-.form {
+#formulariok {
   
     padding-top: 2rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
 }
-#button {
+#btnBorrar{
     background-color: rgb(106, 210, 1);
   
 }
 
-#button1 {
+#btnResumen {
     background-color: rgb(106, 210, 1) ;
-    margin-top: 2rem;
 }
 
 #footer {
